@@ -1,6 +1,6 @@
-# prayer_times_project
+# call for islam 
 
-A new Flutter project.
+my flutter project on Google Play && App Store
 
 ## Getting Started
 
